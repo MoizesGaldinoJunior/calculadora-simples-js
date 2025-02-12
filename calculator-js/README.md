@@ -18,6 +18,7 @@ cd calculadora-js
 Basta abrir o arquivo index.html no navegador
 
 🛠️ESTRUTURA DO PROJETO
+
 calculadora-js/
 │-- index.html # Estrutura da calculadora
 │-- style.css # Estilos visuais
